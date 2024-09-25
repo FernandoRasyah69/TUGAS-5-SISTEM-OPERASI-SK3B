@@ -1,5 +1,3 @@
-![Screenshot 2024-09-25 105538](https://github.com/user-attachments/assets/f329e957-d3fe-4c9a-af9e-2f94f28366f8)1.Eksekusi seluruh profile yang ada :
-
 a. Edit file profile /etc/profile dan tampilkan pesan sebagai berikut :
 echo “Profile dari /etc/profile”
 
